@@ -1,0 +1,5 @@
+tar zxvf libmemcached-0.50.tar.gz
+cd libmemcached-0.50/
+mkdir /usr/local/libmemcached
+./configure   --with-memcached --prefix=/usr/local/libmemcached/
+ make install

@@ -1,0 +1,4 @@
+digraph vis{
+    A -> B
+    C -> B
+}
